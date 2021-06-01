@@ -4,7 +4,7 @@ Visualizzare a schermo il paragrafo con la relative lunghezza e sostituire la ba
 <?php
 
 $text = "La vispa Teresa avea fra l'erbetta al volo sorpresa gentil farfalletta";
-$badword = "vispa"
+$badword = $_GET["badword"];
 
 ?>
 
